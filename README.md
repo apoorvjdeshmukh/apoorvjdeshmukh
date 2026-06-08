@@ -40,8 +40,9 @@ Infra            GCP · FastAPI · async background jobs
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvjdeshmukh&show_icons=true&theme=dark&hide_border=true)
-![Contribution Graph](https://ghchart.rshah.org/1d9e75/apoorvjdeshmukh)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=apoorvjdeshmukh&theme=github-compact&hide_border=true&area=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvjdeshmukh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=apoorvjdeshmukh&theme=github-dark-blue&hide_border=true)
 
 ---
 
