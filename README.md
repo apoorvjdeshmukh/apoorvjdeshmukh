@@ -35,8 +35,7 @@ Infra            GCP · FastAPI · async background jobs
 ---
 
 ## 📍 Background
-- **MBA + BS Mathematics & Economics** — University of Dayton
-- 3 years healthcare (FQHC) — HIPAA workflows, clinical ops, financial systems
+- **MS in Business Analytics** — University of Texas
 - Fintech · logistics · AI/ML · 0-to-1 builds
 
 ---
