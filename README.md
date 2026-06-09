@@ -6,7 +6,7 @@ I build products that engineering teams build on and businesses depend on to ope
 
 ![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvjdeshmukh&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=apoorvjdeshmukh&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=apoorvjdeshmukh&theme=dark&hide_border=true&count_private=true)
 ---
 
 ## 🚀 What I'm Working On
