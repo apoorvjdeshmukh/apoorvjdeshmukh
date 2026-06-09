@@ -4,7 +4,6 @@
 
 I build products that engineering teams build on and businesses depend on to operate. 6+ years in product management, 2+ years in data analytics, across logistics, fintech, and healthcare.
 
-![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvjdeshmukh&show_icons=true&theme=dark&count_private=true&hide_border=true)
 ---
 
 ## 🚀 What I'm Working On
