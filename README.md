@@ -4,7 +4,7 @@
 
 I build products that engineering teams build on and businesses depend on to operate. 6+ years in product management, 2+ years in data analytics, across logistics, fintech, and healthcare.
 
-![Contribution Graph](https://ghchart.rshah.org/40c463/apoorvjdeshmukh)
+<img src="https://ghchart.rshah.org/40c463/apoorvjdeshmukh" alt="Apoorv's GitHub contribution chart" />
 ---
 
 ## 🚀 What I'm Working On
