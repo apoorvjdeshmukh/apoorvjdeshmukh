@@ -2,14 +2,16 @@
 
 **Senior Product Manager** | AI-Native Products | Platform Infrastructure | B2B SaaS
 
+🟢 **Open to new opportunities** — actively interviewing for Senior PM roles in AI, Platform, and B2B SaaS.
+
 I build products that engineering teams build on and businesses depend on to operate. 6+ years in product management, 2+ years in data analytics, across logistics, fintech, and healthcare.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Recent Work
 
-- **Nurdsoft** — Owning a multi-tenant B2B SaaS logistics platform processing 100K+ shipments annually across 7 user personas on GCP
 - **AgileCatalyst** — Built a 0 to 1 private markets investment platform with a production Hybrid RAG pipeline for multilingual financial document intelligence
+- **Nurdsoft** — Owned a multi-tenant B2B SaaS logistics platform processing 100K+ shipments annually across 7 user personas on GCP
 
 ---
 
@@ -58,11 +60,11 @@ Built a production-grade multilingual document intelligence system for a GCC fin
 
 ## 💼 Experience
 
-**Senior Product Manager @ Nurdsoft** (Sep 2023 - Present)
-Multi-tenant B2B logistics SaaS platform for a 3PL client. 7 user personas, 100K+ shipments annually, zero unplanned downtime, $500K+ compliance savings per client.
+**Lead Product Manager @ AgileCatalyst.ai** (Jul 2025 - Aug 2026)
+Took a private markets investment platform 0 to 1 for a GCC fintech marketplace — dual-persona marketplace, Stripe payments, and a production Hybrid RAG pipeline for multilingual (English/Arabic) document intelligence. Redesigned document ingestion from sync to async after container crashes on large files, unlocking production stability. Benchmarked 20+ embedding models to lift Arabic retrieval MRR from 0.12 to 1.0, and shipped hybrid dense + BM25 retrieval merged via Reciprocal Rank Fusion, cutting analyst review time from 2-3 days to grounded answers in under 1.2 seconds end-to-end.
 
-**Lead Product Manager @ AgileCatalyst.ai** (Jul 2025 - Apr 2026)
-0 to 1 private markets investment platform. Dual-persona marketplace, Stripe payments, Hybrid RAG pipeline, MRR 1.0 on multilingual AI retrieval.
+**Senior Product Manager @ Nurdsoft** (Sep 2023 - Jun 2026)
+Multi-tenant B2B logistics SaaS platform for a 3PL client. 7 user personas, 100K+ shipments annually, zero unplanned downtime, $500K+ compliance savings per client.
 
 **Product Manager @ Eze Castle Integration** (Feb 2021 - Jan 2023)
 Consumer platform serving union workers. Grew DAU from 20K to 50K, 200K+ downloads, completion rate 60% to 95%.
@@ -75,13 +77,9 @@ HIPAA-regulated federally qualified health center. SQL and Tableau analytics acr
 ## 🛠️ Technical Skills
 
 **AI/ML:** RAG pipelines, LLM evaluation, prompt engineering, Claude Code (daily), Cursor (daily), embeddings, retrieval architectures, evaluation frameworks (MRR, latency, accuracy, cost-per-query), AI-powered prototyping
-
 **Platform/Infrastructure:** REST APIs, API design, OAuth, OIDC, RBAC, microservices, multi-tenant architectures, data isolation, observability, CI/CD, GCP, AWS, Docker, FastAPI, Qdrant
-
 **Analytics and Data:** SQL, BigQuery, Tableau, A/B testing, metrics instrumentation, PostHog
-
 **Finance and Payments:** Stripe, financial workflows, payment systems, compliance automation
-
 **Product:** Jira, Linear, Notion, Figma, 0 to 1 product building, end-to-end ownership, stakeholder alignment
 
 ---
@@ -89,7 +87,6 @@ HIPAA-regulated federally qualified health center. SQL and Tableau analytics acr
 ## 🎓 Education
 
 **M.S. Business Analytics** — University of Texas at Dallas (2018)
-
 **B.E. Mechanical Engineering** — Rajiv Gandhi Proudyogiki Vishwavidyalaya (2016)
 
 ---
@@ -106,7 +103,7 @@ HIPAA-regulated federally qualified health center. SQL and Tableau analytics acr
 ## 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorvdeshmukh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/apoorvdeshmukh)
-[![Portfolio](https://img.shields.io/badge/Notion-Product%20Portfolio-black?style=flat&logo=notion)](https://apoorvdeshmukh.notion.site/Apoorv-Deshmukh-Product-Portfolio-30519c575893805e8eb2c8fb5bcb75c5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-apoorvdeshmukh.netlify.app-black?style=flat&logo=netlify)](https://apoorvdeshmukh.netlify.app/)
 
 ---
 
