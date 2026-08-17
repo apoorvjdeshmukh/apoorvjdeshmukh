@@ -87,6 +87,7 @@ HIPAA-regulated federally qualified health center. SQL and Tableau analytics acr
 ## 🎓 Education
 
 **M.S. Business Analytics** — University of Texas at Dallas (2018)
+
 **B.E. Mechanical Engineering** — Rajiv Gandhi Proudyogiki Vishwavidyalaya (2016)
 
 ---
